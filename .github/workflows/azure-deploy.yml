@@ -18,12 +18,14 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
+      # FIXED: solution file is at repo root
       - name: Restore dependencies
-        run: dotnet restore BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.sln
+        run: dotnet restore BlazorAppWebAssemblyTest.sln
 
       - name: Build solution
-        run: dotnet build BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.sln --configuration Release --no-restore
+        run: dotnet build BlazorAppWebAssemblyTest.sln --configuration Release --no-restore
 
+      # CORRECT server project path
       - name: Publish Blazor Server (hosted)
         run: dotnet publish BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.csproj -c Release -o publish
 
