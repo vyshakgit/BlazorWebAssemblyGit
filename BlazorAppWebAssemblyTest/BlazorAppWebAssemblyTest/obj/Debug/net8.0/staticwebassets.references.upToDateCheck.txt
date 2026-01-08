@@ -1,0 +1,2 @@
+C:\Users\Vyshak\source\repos\BlazorAppWebAssemblyTest\BlazorAppWebAssemblyTest\BlazorAppWebAssemblyTest.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Vyshak\source\repos\BlazorAppWebAssemblyTest\BlazorAppWebAssemblyTest\BlazorAppWebAssemblyTest.Client\obj\Debug\net8.0\staticwebassets.build.json

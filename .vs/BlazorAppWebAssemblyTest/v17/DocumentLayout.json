@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest.client\\pages\\apidemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest.client\\pages\\apidemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72884F6-3CC5-4F37-A019-0197E418EC20}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\BlazorAppWebAssemblyTest.Client.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|c:\\users\\vyshak\\source\\repos\\blazorappwebassemblytest\\blazorappwebassemblytest\\blazorappwebassemblytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F43808E-DB04-4B5E-AB40-3104425A7673}|BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.csproj|solutionrelative:blazorappwebassemblytest\\blazorappwebassemblytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:43:44.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\App.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:43:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:43:35.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:43:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiDemo.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\ApiDemo.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\ApiDemo.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\ApiDemo.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\ApiDemo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:40:01.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Program.cs",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:39:15.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Controllers\\DataController.cs",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:34:44.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Program.cs",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T23:33:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:43:48.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppWebAssemblyTest\\BlazorAppWebAssemblyTest.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-07T23:44:10.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

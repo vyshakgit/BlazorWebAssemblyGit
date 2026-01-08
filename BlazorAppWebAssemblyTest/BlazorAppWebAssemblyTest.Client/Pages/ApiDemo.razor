@@ -1,0 +1,62 @@
+﻿@page "/apidemo"
+@rendermode @(new InteractiveWebAssemblyRenderMode(prerender: false))
+@inject HttpClient Http
+
+<h3>ApiDemo</h3>
+
+<div class="row mt-4">
+    <div class="col-md-12">
+        <div class="card mb-3">
+            <div class="card-header">
+                <h5>Get Greeting</h5>
+            </div>
+            <div class="card-body">
+                <button class="btn btn-primary" @onclick="GetGreeting" disabled="@isLoadingGreeting">
+                    @if (isLoadingGreeting)
+                    {
+                        <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+                    }
+                    Get Greeting
+                </button>
+                @if (!string.IsNullOrEmpty(greetingMessage))
+                {
+                    <div class="alert alert-success mt-3" role="alert">
+                        <strong>Response:</strong> @greetingMessage
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(greetingError))
+                {
+                    <div class="alert alert-danger mt-3" role="alert">
+                        <strong>Error:</strong> @greetingError
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    private string greetingMessage = string.Empty;
+    private string greetingError = string.Empty;
+    private bool isLoadingGreeting = false;
+
+    private async Task GetGreeting()
+    {
+        isLoadingGreeting = true;
+        greetingError = string.Empty;
+        greetingMessage = string.Empty;
+
+        try
+        {
+            greetingMessage = await Http.GetStringAsync("api/data/greeting");
+        }
+        catch (Exception ex)
+        {
+            greetingError = $"Failed to get greeting: {ex.Message}";
+        }
+        finally
+        {
+            isLoadingGreeting = false;
+        }
+    }
+}
