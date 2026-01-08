@@ -10,29 +10,23 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      # 1. Checkout code
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Setup .NET
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
 
-      # 3. Restore
       - name: Restore dependencies
-        run: dotnet restore BlazorAppWebAssemblyTest.sln
+        run: dotnet restore BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.sln
 
-      # 4. Build
-      - name: Build
-        run: dotnet build BlazorAppWebAssemblyTest.sln -c Release --no-restore
+      - name: Build solution
+        run: dotnet build BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.sln --configuration Release --no-restore
 
-      # 5. Publish SERVER project only
       - name: Publish Blazor Server (hosted)
-        run: dotnet publish BlazorAppWebAssemblyTest/BlazorWebAssembly -c Release -o publish
+        run: dotnet publish BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest/BlazorAppWebAssemblyTest.csproj -c Release -o publish
 
-      # 6. Deploy to Azure App Service
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
